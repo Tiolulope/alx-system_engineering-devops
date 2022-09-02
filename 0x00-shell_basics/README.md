@@ -1,1 +1,1 @@
-Create a magic file school.mgc
+Delete the file betty.
