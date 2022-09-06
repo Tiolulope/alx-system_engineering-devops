@@ -1,1 +1,1 @@
-I have to be more faster
+You need to study more harder
