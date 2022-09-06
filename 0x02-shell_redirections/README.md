@@ -1,1 +1,1 @@
-You need to study more harder
+This readme file diplay content of /etc/passwd
