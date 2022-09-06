@@ -1,1 +1,1 @@
-This readme file diplay content of /etc/passwd
+Make sure README files are always organised
